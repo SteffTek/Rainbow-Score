@@ -1,0 +1,25 @@
+{
+  "name": "rainbow-score",
+  "version": "1.0.0",
+  "description": "Calculate which users have the most pixels placed, based on Rainbow Canvas Data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "SteffTek",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "mongoose": "^5.12.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteffTek/Rainbow-Score.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SteffTek/Rainbow-Score/issues"
+  },
+  "homepage": "https://github.com/SteffTek/Rainbow-Score#readme"
+}
